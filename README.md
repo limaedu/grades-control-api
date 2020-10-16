@@ -1,8 +1,8 @@
 <h1 align = 'center'> Grades Control API</h1>
 
-<p align = 'center'>
+<h2 align = 'center'>
 <a href="https://grades-control-my-api.herokuapp.com/grades-control-api/doc/">Documentation</a>
-</p>
+</h2>
 <p float="left">
   <img src="./screenshot1.png"/>
   <img src="./screenshot2.png"/>
