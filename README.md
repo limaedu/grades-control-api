@@ -1,5 +1,6 @@
-<h1 align = 'center'> Grades Control API</h1>
+###### **developed by: Eduardo Lima**
 
+<h1 align = 'center'>  Grades Control API</h1>
 <h2 align = 'center'>
 <a href="https://grades-control-my-api.herokuapp.com/grades-control-api/doc/">Documentation</a>
 </h2>
