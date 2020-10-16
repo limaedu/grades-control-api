@@ -34,5 +34,5 @@ $ npm init
 
 $ npm install
 
-$ nodemon --experimental-modules src/index.js
+$ nodemon --experimental-modules index.js
 ```
